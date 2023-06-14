@@ -1,0 +1,1 @@
+A simple project that uses github actions to build and deploy a docker image to dockerhub
